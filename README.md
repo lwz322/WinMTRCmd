@@ -30,4 +30,4 @@ Author: Martin Riess (volrathmr+winmtrcmd@gmail.com)
 Project Page: http://sourceforge.net/p/winmtrcmd
 
 ### License
-Like WinMTR and MTR, WinMTRCmd is offered as Open Source Software under GPL v2 (see LICENSE.TXT).
+Like WinMTR and MTR, WinMTRCmd is offered as Open Source Software under GPL v2 (see LICENSE.md).
